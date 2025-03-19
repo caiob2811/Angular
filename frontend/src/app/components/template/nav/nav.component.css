@@ -3,8 +3,6 @@
     width: 200px;
 }
 
-
-
 .sidenav a span {
   color: #ffffff !important; 
 }
@@ -12,4 +10,9 @@
 .sidenav i {
   color: #ffffff !important; 
   padding-right: 10px;
+}
+
+.content {
+  padding: 16px;
+  background-color: #ffffff;
 }
